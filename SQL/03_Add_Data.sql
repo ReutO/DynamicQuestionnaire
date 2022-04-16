@@ -205,7 +205,7 @@ INSERT INTO [dbo].[QuestionTypes]
            ,'Text'
            ,'html input type text element'),
 		   (3
-           ,'checkbox'
+           ,'Checkbox'
            ,'html input type checkbox element')
 
 GO
