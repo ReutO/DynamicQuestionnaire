@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoTechQuestionnaires", "GoTechQuestionnaires\GoTechQuestionnaires.csproj", "{2E6646FD-7312-4852-8ED5-047F371A5A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6646FD-7312-4852-8ED5-047F371A5A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6646FD-7312-4852-8ED5-047F371A5A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6646FD-7312-4852-8ED5-047F371A5A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6646FD-7312-4852-8ED5-047F371A5A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FE5E7B-C826-4D6F-AE61-739A5D48DC7F}
+	EndGlobalSection
+EndGlobal
